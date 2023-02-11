@@ -1,2 +1,2 @@
 first commit
-유상규 수정
+Second commit 
